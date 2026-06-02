@@ -106,7 +106,7 @@
                     "type": "CallExpression",
                     "name": "setText",
                     "source": "Sort/F:",
-                    "target": "排序/筛选："
+                    "target": "排序："
                 },
                 {
                     "type": "CallExpression",
