@@ -307,9 +307,9 @@
         "supported_versions": "0.22.1",
         "title": "Advanced Tables",
         "description": "Advanced Tables Localization & Tweaks",
-        "hash": "6e2067f96e2067f96e2067f96e2067f9",
+        "hash": "41311f0e41311f0e41311f0e41311f0e",
         "created_at": "2026-06-02T13:48:09.834Z",
-        "updated_at": "2026-06-02T13:48:09.834Z"
+        "updated_at": "2026-06-02T16:24:46.026Z"
     },
     {
         "id": "CXgRmgaK7CsDdCa7byISwLCwppDp_c-b",
@@ -453,5 +453,31 @@
         "hash": "624f08c0624f08c0624f08c0624f08c0",
         "created_at": "2026-06-02T13:48:09.837Z",
         "updated_at": "2026-06-02T13:48:09.837Z"
+    },
+    {
+        "id": "7SmHcAJ8BeBtJWq4lPVaCaHwgvSPV7SV",
+        "plugin": "table-editor-obsidian",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.22.1",
+        "title": "Advanced Tables",
+        "description": "Advanced Tables Localization & Tweaks",
+        "hash": "1ec1d54b1ec1d54b1ec1d54b1ec1d54b",
+        "created_at": "2026-06-02T16:24:46.027Z",
+        "updated_at": "2026-06-02T16:24:46.027Z"
+    },
+    {
+        "id": "uKnT5Q2FdHdNPXkL13jJ3J8V1d41NTga",
+        "plugin": "webpage-html-export",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.9.2",
+        "title": "[feichuan][zh-cn] Webpage HTML Export",
+        "description": "Webpage HTML Export Localization & Tweaks",
+        "hash": "3c69d1a23c69d1a23c69d1a23c69d1a2",
+        "created_at": "2026-06-02T16:24:46.029Z",
+        "updated_at": "2026-06-02T16:24:46.029Z"
     }
 ]
